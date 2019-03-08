@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  background-color: lightsteelblue;
+  height: 100%;
+  font-size: 30px;
+}
+
+button {
+  font-size: 24px;
+}
+
+input {
+  font-size: 24px;
 }
 
 .App-logo {
@@ -30,4 +41,32 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.stretch {
+  width: 95%;
+  height: 95%;
+}
+
+.location {
+  font-size: 32px;
+  text-align: center;
+  background-color: red;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+}
+
+h3 {
+  color: black;
+  margin: 0px;
+  font-size: 32px;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+.timer {
+  font-size: 50px;
+  font-weight: bolder;
 }

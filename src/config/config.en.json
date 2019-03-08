@@ -1,0 +1,369 @@
+{
+  "spyRole": "Spy",
+  "locations": [
+    {
+      "id": "airplane",
+      "name": "Airplane",
+      "roles": [
+        "first class passenger",
+        "air marshall",
+        "mechanic",
+        "air hostess",
+        "copilot",
+        "captain",
+        "economy class passenger"
+      ]
+    },
+    {
+      "id": "bank",
+      "name": "Bank",
+      "roles": [
+        "armored car driver",
+        "manager",
+        "consultant",
+        "robber",
+        "security guard",
+        "teller",
+        "customer"
+      ]
+    },
+    {
+      "id": "beach",
+      "name": "Beach",
+      "roles": [
+        "beach waitress",
+        "kite surfer",
+        "lifeguard",
+        "thief",
+        "beach photographer",
+        "ice cream truck driver",
+        "beach goer"
+      ]
+    },
+    {
+      "id": "cathedral",
+      "name": "Cathedral",
+      "roles": [
+        "priest",
+        "beggar",
+        "sinner",
+        "tourist",
+        "sponsor",
+        "chorister",
+        "parishioner"
+      ]
+    },
+    {
+      "id": "circus_tent",
+      "name": "Circus tent",
+      "roles": [
+        "acrobat",
+        "animal trainer",
+        "magician",
+        "fire eater",
+        "clown",
+        "juggler",
+        "visitor"
+      ]
+    },
+    {
+      "id": "corporate_party",
+      "name": "Corporate Party",
+      "roles": [
+        "entertainer",
+        "manager",
+        "unwanted guest",
+        "owner",
+        "secretary",
+        "delivery boy",
+        "accountant"
+      ]
+    },
+    {
+      "id": "crusader_army",
+      "name": "Crusader Army",
+      "roles": [
+        "monk",
+        "imprisoned saracen",
+        "servant",
+        "bishop",
+        "squire",
+        "archer",
+        "knight"
+      ]
+    },
+    {
+      "id": "casino",
+      "name": "Casino",
+      "roles": [
+        "bartender",
+        "head security guard",
+        "bouncer",
+        "manager",
+        "hustler",
+        "dealer",
+        "gambler"
+      ]
+    },
+    {
+      "id": "day_spa",
+      "name": "Day Spa",
+      "roles": [
+        "stylist",
+        "masseuse",
+        "manicurist",
+        "makeup artist",
+        "dermatologist",
+        "beautician",
+        "customer"
+      ]
+    },
+    {
+      "id": "embassy",
+      "name": "Embassy",
+      "roles": [
+        "security guard",
+        "secretary",
+        "ambassador",
+        "tourist",
+        "refugee",
+        "diplomat",
+        "government official"
+      ]
+    },
+    {
+      "id": "hospital",
+      "name": "Hospital",
+      "roles": [
+        "nurse",
+        "doctor",
+        "anesthesiologist",
+        "intern",
+        "therapist",
+        "surgeon",
+        "patient"
+      ]
+    },
+    {
+      "id": "hotel",
+      "name": "Hotel",
+      "roles": [
+        "doorman",
+        "security guard",
+        "manager",
+        "housekeeper",
+        "bartender",
+        "bellman",
+        "customer"
+      ]
+    },
+    {
+      "id": "military_base",
+      "name": "Military base",
+      "roles": [
+        "deserter",
+        "colonel",
+        "medic",
+        "sniper",
+        "officer",
+        "tank engineer",
+        "soldier"
+      ]
+    },
+    {
+      "id": "movie_studio",
+      "name": "Movie studio",
+      "roles": [
+        "stunt man",
+        "sound engineer",
+        "camera man",
+        "director",
+        "costume artist",
+        "producer",
+        "actor"
+      ]
+    },
+    {
+      "id": "ocean_liner",
+      "name": "Ocean liner",
+      "roles": [
+        "cook",
+        "captain",
+        "bartender",
+        "musician",
+        "waiter",
+        "mechanic",
+        "rich passenger"
+      ]
+    },
+    {
+      "id": "passenger_train",
+      "name": "Passenger train",
+      "roles": [
+        "mechanic",
+        "border patrol",
+        "train attendant",
+        "restaurant chef",
+        "train driver",
+        "stoker",
+        "passenger"
+      ]
+    },
+    {
+      "id": "pirate_ship",
+      "name": "Pirate ship",
+      "roles": [
+        "cook",
+        "slave",
+        "cannoneer",
+        "tied up prisoner",
+        "cabin boy",
+        "brave captain",
+        "sailor"
+      ]
+    },
+    {
+      "id": "polar_station",
+      "name": "Polar station",
+      "roles": [
+        "medic",
+        "expedition leader",
+        "biologist",
+        "radioman",
+        "hydrologist",
+        "meteorologist",
+        "geologist"
+      ]
+    },
+    {
+      "id": "police_station",
+      "name": "Police station",
+      "roles": [
+        "detective",
+        "lawyer",
+        "journalist",
+        "criminalist",
+        "archivist",
+        "criminal",
+        "patrol officer"
+      ]
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "roles": [
+        "musician",
+        "bouncer",
+        "hostess",
+        "head chef",
+        "food critic",
+        "waiter",
+        "customer"
+      ]
+    },
+    {
+      "id": "school",
+      "name": "School",
+      "roles": [
+        "gym teacher",
+        "principal",
+        "security guard",
+        "janitor",
+        "cafeteria lady",
+        "maintenance man",
+        "student"
+      ]
+    },
+    {
+      "id": "service_station",
+      "name": "Service station",
+      "roles": [
+        "manager",
+        "tire specialist",
+        "biker",
+        "car owner",
+        "car wash operator",
+        "electrician",
+        "auto mechanic"
+      ]
+    },
+    {
+      "id": "space_station",
+      "name": "Space station",
+      "roles": [
+        "engineer",
+        "alien",
+        "pilot",
+        "commander",
+        "scientist",
+        "doctor",
+        "space tourist"
+      ]
+    },
+    {
+      "id": "submarine",
+      "name": "Submarine",
+      "roles": [
+        "cook",
+        "commander",
+        "sonar technician",
+        "electronics technician",
+        "radioman",
+        "navigator",
+        "sailor"
+      ]
+    },
+    {
+      "id": "supermarket",
+      "name": "Supermarket",
+      "roles": [
+        "cashier",
+        "butcher",
+        "janitor",
+        "security guard",
+        "food sample demonstrator",
+        "shelf stocker",
+        "customer"
+      ]
+    },
+    {
+      "id": "theater",
+      "name": "Theater",
+      "roles": [
+        "coat check lady",
+        "prompter",
+        "cashier",
+        "director",
+        "actor",
+        "crew man",
+        "audience member"
+      ]
+    },
+    {
+      "id": "university",
+      "name": "University",
+      "roles": [
+        "graduate student",
+        "professor",
+        "dean",
+        "psychologist",
+        "maintenance man",
+        "janitor",
+        "student"
+      ]
+    },
+    {
+      "id": "world_war_ii_squad",
+      "name": "World War II Squad",
+      "roles": [
+        "resistance fighter",
+        "radioman",
+        "scout",
+        "medic",
+        "cook",
+        "imprisoned nazi",
+        "soldier"
+      ]
+    }
+  ]
+}
