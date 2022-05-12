@@ -1,0 +1,45 @@
+.gameBoard {
+    height: 100%;
+    width: 100%;
+}
+
+.timerWrapper {
+    height: 40px;
+    position: relative;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    position: relative;
+    z-index: 1;
+}
+
+.timerText {
+    position: relative;
+    top: -8px;
+    color: white;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-weight: bolder;
+    font-size: 40px;
+    max-height: 40px;
+}
+
+.progressBar {
+    z-index: 0;
+    position: absolute;
+    height: 40px;
+    background-color: #267486;
+    transition: width 1s linear, opacity 0.9s cubic-bezier(0.64, 0.57, 0.67, 1.53);
+}
+
+.progressBar.barLow {
+    background-color: #e53333;
+}
+
+.progressBar.barFlashing.barPhaseOut {
+    opacity: 0.3;
+}

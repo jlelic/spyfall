@@ -1,0 +1,50 @@
+.game {
+    background-color: black;
+    color: white;
+    text-align: center;
+    min-height: 100%;
+    font-size: 30px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.button {
+    display: inline;
+    background-color: #0a6bff;
+    border-radius: 10px;
+    border: 0;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 500;
+    margin: 0;
+    min-width: 120px;
+    padding: 5px 10px;
+    position: relative;
+    text-align: center;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    vertical-align: baseline;
+    transition: all .2s cubic-bezier(.22, .61, .36, 1);
+}
+
+.button:hover {
+    background-color: #065dd8;
+    transform: translateY(-2px);
+}
+
+.button.reset {
+    background-color: indianred;
+}
+
+.result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column;
+}
+
+.gameSettings > * {
+    margin: 12px;
+}
